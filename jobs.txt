@@ -1,0 +1,4 @@
+C:\Users\HOME PC\Desktop\Python System Programming\path1 | sh loop1ton.sh
+C:\Users\HOME PC\Desktop\Python System Programming\path1 | sh square1ton.sh
+C:\Users\HOME PC\Desktop\Python System Programming\path1\path2 | sh print.sh 5
+C:\Users\HOME PC\Desktop\Python System Programming\path1\path2 | sh sumToN.sh 999
